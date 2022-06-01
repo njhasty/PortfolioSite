@@ -333,6 +333,7 @@ footer {
   .hero img {
         height: 37.5rem;
         width: 30rem;
+        padding-bottom: 150px;
     }
 
   .bio {
@@ -375,6 +376,7 @@ footer {
   .hero img {
     height: 37.5rem;
     width: 23rem;
+    padding-bottom: 150px;
   }
 
   .bio {
